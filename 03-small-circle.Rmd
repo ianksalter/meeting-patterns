@@ -1,0 +1,66 @@
+# Small Circle
+
+A meeting designed to encourage participation. Typically participants are arranged in a circle.   
+
+**Pros**  
+
+Encourages a greater involvement.   
+
+**Cons**  
+
+May overly constrain the input from more knowlagable participants.   
+
+**Meeting Purpose**  
+
+* Understanding
+* Goal Setting
+* Solution Finding
+* Reporting Progress
+* Providing Feedback
+
+NOT Information Provision   
+
+**Number of Participants**  
+
+A non exclusive list:
+
+* One to One
+* Very Small Group < 5
+* Small Group < 20
+
+NOT One to One or Large Group (> 20)   
+
+**Meeting Medium**  
+
+A non exclusive list:
+
+* Face to Face
+* Video Conferance
+* Audio Conferennce   
+
+**Participent Type**  
+
+A non exclusive list:
+
+* Peer to peer (may need a different term)
++ Participant - who may use post it notes to provide few word description of their point.
++ Facilitator
++ Summariser / Note Taker - who may collect and structure post it notes and often has the role of reporting back to a larger group   
+
+**Participation Style**  
+
+* Sharing - "I feel that, its seems to me that, I see this in a diffent way"
+* Clarity Querstioning - "I didn't understand that point" particularly by sumariser
+* Managing - by facilator. May include:
++ Maintening a queued list of speakers. Can be done through post it notes.
++ Timeboxing the speakers to for example a minute.   
+
+**Materials**  
+
+* Flip Charts
+* White Boards
+* Pens
+* Post It Notes
+
+NOT Presentation Slides or Documents
+

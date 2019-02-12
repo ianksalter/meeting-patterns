@@ -1,0 +1,35 @@
+# Free For All
+
+An unstructured meeting.
+
+**Meeting Purpose**  
+
+Often Unclear  
+
+**Pros**  
+
+Flow of the meeting not constrained by any rules and therefore may produce outcomes that would be impossible with other patterns.  
+
+**Cons**  
+
+Producing outcomes may be difficult. This difficulty tends to increase with meeting size.   
+
+**Number of Participants**  
+
+Any 
+
+**Meeting Medium**  
+
+Any 
+
+**Participent Type**  
+
+Any 
+
+**Participation Style**  
+
+All 
+
+**Materials**  
+
+Any, but usually none

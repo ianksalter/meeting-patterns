@@ -1,0 +1,50 @@
+# Lecture
+
+A spoken lesson or exposition usually given to a group. Shorter lectures may also be called Breifings.   
+
+**Pros**  
+
+Effecting means of imparting information, especially to large groups.   
+
+**Cons**  
+
+May fail due to audience members lack of prerequisite knowledge or understanding of lecture purpose. The former can be mediated by audience selection and or prerequsite lectures. The later can be mitigated by making lecture objectives clear.
+
+Lack of opportunity to provide feedback may frustrate some audience members. This can be mitigated by provide some kind of feedback mechanisim after the lecture. At minimum such feedback may involve a one to one conversation between audinece member and lecturer.   
+
+**Meeting Purpose**  
+
+* Information Provision   
+
+**Number of Participants**     
+
+Any but effectiveness and efficency tends to improve as groups get larger.   
+
+**Meeting Medium**  
+
+* Face to Face - most effective
+* Video Conferance
+* Audio Conferennce   
+
+**Participent types**  
+
+* Server - Client (need a different term)  
+    + Lecturer
+    + Audience Member
+    + maybe Chair to ensure lecture follows pattern or deal with larger groups.   
+
+**Participation Style**  
+
+* Lecturer
+    + Telling - "This is this, that is that ...."
+* Audience Member
+    + Clarity Querstioning - "I didn't understand that point""
+* Chair
+    + Managing 
+
+Note the Presentation meeting pattern is similar to the lecture pattern except, Audience Members may also use the Approach Questioning interaction style. Presentations nearly always have Chairs to manage apropriate times for, and length of, audience interaction.   
+
+**Materials**  
+
+Lectures are nearly always improved with presentation slides. Making the slides available before, at the start, or at the very least after the lecture can significantly aid understanding.
+

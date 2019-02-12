@@ -1,0 +1,14 @@
+# Pattern Summary
+
+Ideally this section should be structured to aid easy meeting pattern selection. Atn present it is just a list of possible patterns
+
+* Free for All
+* Lecture/Briefing
+* Small Circle
+* Big Circle (which breaks into small circles)
+* Debate
+* Tribuneral/Trial
+* Presentation
+* Team Update
+* Seminar
+* ........
