@@ -1,0 +1,105 @@
+# Other Approaches to meetings
+
+Here we seek to tie our approach to other works on meeting styles. The sections talk about where approaches are similar to our attributes of meetings:
+
+Here we describe others general approaches:
+
+![Lucid Meetings Periodic Table of Meetings](https://blog.lucidmeetings.com/hubfs/no-excuses-series/meeting-types-chart.png)
+
+
+
+
+
+## Meeting Purpose
+
+A non exclusive list:
+
+* Understanding
+* Topic Selection
+* Goal Setting
+* Solution Finding
+* Information Provision
+* Deciding
+* Reporting Progress
+* Providing Feedback
+
+These can be linked to [Meeting Sifts Meeting types](http://meetingsift.com/the-six-types-of-meetings/)
+
+* Status Update
+* Information Sharing
+* Decision Making
+* Problem Solving
+* Innovation
+* Team Building
+
+Interesitngly we break out Information Sharing into Information Provision and Understanding and have nothing corresponding to team building which may reflect a non corporate approach. Problem Solving and Innovation would map to Goal Setting and Solution Finding 
+
+https://meetingsimagined.com/meeting-purposes
+
+* Celebrate
+* Decide
+* Educate
+* Ideate - generate new ideas and ways of thinking.
+* Network
+* Produce
+* Promote
+
+
+## Number of Participants
+
+A non exclusive list:
+
+* One to One
+* Very Small Group < 5
+* Small Group < 20
+* Large Group > 20
+
+
+## Meeting Medium
+
+A non exclusive list:
+
+* Face to Face
+* Video Conferance
+* Audio Conferennce
+
+## Participent Type
+
+A non exclusive list:
+
+* Server - Client (need a different term)
+    + Lecturer
+    + Audience Member
+    + Chair
+    + Speaker
+* Peer to peer (may need a different term)
+    + Participant
+    + Facilitator
+    + Summariser
+
+
+## Participation Style
+
+ (may split by participant types???):
+
+* Telling - "This is this, that is that ...."
+* Sharing - "I feel that, its seems to me that, I see this in a diffent way"
+* Clarity Querstioning - "I didn't understand that point""
+* Approach Questioning - "I think this should be done a different way"
+* Managing * Shared note taking
+* Sumarising
+
+
+
+## Materials
+
+A non exclusive list
+
+* Presentation Slides
+* Flip Charts
+* White Boards
+* Documents
+* Pens
+* Paper
+* Post It Notes
+* Task Board JIRA
